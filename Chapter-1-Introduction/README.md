@@ -7,7 +7,7 @@
 1. Group Information:
 Ramya Burgula and 
 Akhila Dyavirishetty
-2. Githud=b url:https://github.com/ramyaburgula/spring2022
+2. Githuburl:https://github.com/ramyaburgula/spring2022
 3. We both worked together on ths project connecting via zoom and it took on whole of 3
 hours to complete all the steps.
 4. We created a simple flask code to print welcome <name>.
